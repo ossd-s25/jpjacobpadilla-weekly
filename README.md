@@ -1,2 +1,2 @@
-This is a simple template for the class blog. 
+Jacob Padilla's open source blog repository.
 
