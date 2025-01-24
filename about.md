@@ -4,9 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+Hello there - I'm Jacob Padilla, a student at NYU studying business and computer science! This website is where you'll find my blog posts on open source software development!
