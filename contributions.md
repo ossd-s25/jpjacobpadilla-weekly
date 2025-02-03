@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date # | Contribution (Link)                                  | Type           | Description            |
 | ------ | :--------------------------------------------------- | :------------- | :--------------------- |
-| Feb 2  | [PR](https://github.com/aio-libs/aiohttp/pull/10371) | Pull Request   | I wrote some code + documentation to solve an Issue in [aiohttp](https://docs.aiohttp.org/en/stable/) |
+| Feb 2  | [Link](https://github.com/aio-libs/aiohttp/pull/10371) | Pull Request   | I wrote some code + documentation to resolve an Issue in [aiohttp](https://docs.aiohttp.org/en/stable/) |
 |        |                                                      |                |                        |
 |        |                                                      |                |                        |
