@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 | Feb 4  | [Link](https://github.com/aio-libs/aiohttp/pull/10378) | Pull Request   | Wrote code to backport fix from previous PR |
 | Feb 9  | [Link](https://github.com/monperrus/crawler-user-agents/issues/386) | Issue  | Suggested adding 6 new user agents to the project |
 | Feb 10 | [Link](https://github.com/monperrus/crawler-user-agents/pull/390), [Link](https://github.com/monperrus/crawler-user-agents/pull/391), [Link](https://github.com/monperrus/crawler-user-agents/pull/388), [Link](https://github.com/monperrus/crawler-user-agents/pull/387) | 4 Pull Requests  | From the above issue, I was able to add information on four of the web-crawlers |
+| Feb 21 | [Link](https://en.wikipedia.org/w/index.php?title=Web_scraping&diff=prev&oldid=1277016561) | Wikipedia  | Improved a section of an article about web scraping dynamic sites |
