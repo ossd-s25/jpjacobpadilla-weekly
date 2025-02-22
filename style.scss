@@ -372,3 +372,7 @@ body {
 nav a {
   font-weight: 350;
 }
+
+table td:first-child, table th:first-child {
+  white-space: nowrap; 
+}
