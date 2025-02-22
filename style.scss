@@ -201,7 +201,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid rgb(202, 187, 166);
 
   @include mobile {
     text-align: center;
@@ -286,11 +286,6 @@ nav {
 // .main
 //
 
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
-
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
@@ -318,9 +313,8 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid rgb(164, 152, 137);
+  background-color: rgb(226, 211, 192);
 }
 
 footer {
@@ -331,17 +325,17 @@ footer {
 
 table {
   border-collapse:collapse;
-  border: 1px solid #eee;
+  border: 1px solid rgb(226, 211, 192);
 
   th {
     font-weight: 800;
-    background-color: #eee;
-    border: 1px solid white;
+    background-color: rgb(226, 211, 192);
+    border: 1px solid rgb(208, 195, 178);
     padding: 10px;
   }
 
   td {
-    border: 1px solid #eee;
+    border: 1px solid rgb(226, 211, 192);
     padding: 10px;
   }
 }
@@ -351,3 +345,34 @@ table {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+
+// My changes
+body {
+  background-color: rgb(255, 239, 218);
+}
+
+.post {
+  padding: 1.5rem;
+  border-radius: 15px;
+  background-color: rgb(255 245 230);
+  border: 1px solid rgb(226, 211, 192);
+  margin-bottom: 4vh;
+}
+
+.post > h1 {
+  margin-top: 0;
+}
+
+.post > a {
+  color: #637f9a;
+}
+
+.post > a:hover {
+  color: #2a353f;
+}
+
+nav a {
+  font-weight: 350;
+}
