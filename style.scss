@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 780px;
   padding: 0 10px;
   width: 100%;
 }
@@ -286,11 +286,6 @@ nav {
 // .main
 //
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
 .post {
   blockquote {
     margin: 1.8em .8em;
@@ -359,6 +354,7 @@ body {
   background-color: rgb(255, 245, 230);
   border: 1px solid rgb(226, 211, 192);
   margin-bottom: 4vh;
+  box-shadow: 0 0 5px 0px #6661611a;
 }
 
 .post > h1 {
