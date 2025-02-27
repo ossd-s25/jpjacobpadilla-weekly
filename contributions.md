@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 | Feb 22 | [Link](https://en.wikipedia.org/w/index.php?title=Python_(programming_language)&diff=prev&oldid=1277089559) | Wikipedia  | Updated number of packages on PyPI |
 | Feb 22 | [Link](https://en.wikipedia.org/w/index.php?title=Web_framework&diff=prev&oldid=1277089927) | Wikipedia  | Added FastAPI as a server-side framework on "web frameworks" page |
 | Feb 22 | [Link](https://en.wikipedia.org/w/index.php?title=FastAPI&diff=prev&oldid=1277090356) | Wikipedia  | Fixed FastAPI example by adding `async` keyword to function |
+| Feb 26 | [Link](https://github.com/fastapi/fastapi/issues/13400#issuecomment-2686580076) | Code Proposal  | Suggested a method of fixing a bug in [FastAPI](https://github.com/fastapi/fastapi) |
