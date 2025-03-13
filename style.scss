@@ -354,7 +354,6 @@ body {
   background-color: rgb(255, 245, 230);
   border: 1px solid rgb(226, 211, 192);
   margin-bottom: 4vh;
-  // box-shadow: 0 0 5px 0px #6661611a;
 }
 
 .post > h1 {
@@ -375,4 +374,25 @@ nav a {
 
 table td:first-child, table th:first-child {
   white-space: nowrap; 
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 10vh;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+table th,
+table td {
+  padding: 12px 15px;
+}
+
+table tbody tr:nth-of-type(even) {
+  background-color: rgb(242, 227, 206);
+}
+
+table tbody tr:hover {
+  background-color: rgb(210, 197, 181);
+  transition: all 0.3s ease;
 }
