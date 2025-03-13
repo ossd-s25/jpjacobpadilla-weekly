@@ -32,3 +32,4 @@ Replace the first row with your own contribution.
 | Feb 22 | [Link](https://en.wikipedia.org/w/index.php?title=FastAPI&diff=prev&oldid=1277090356) | Wikipedia  | Fixed FastAPI example by adding `async` keyword
 | Feb 26 | [Link](https://github.com/fastapi/fastapi/issues/13400#issuecomment-2686580076) | Code Proposal  | Suggested changing some code to fix a bug in [FastAPI](https://github.com/fastapi/fastapi) |
 | Feb 27 | [Link](https://github.com/fastapi/fastapi/pull/13427) | Pull Request | Turned bug fix proposal into a PR |
+| Mar 12 | [Link](https://www.openstreetmap.org/changeset/163550322) | OpenStreetMap | Added information on a new bakery in the East Village |
