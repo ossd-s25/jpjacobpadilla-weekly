@@ -35,3 +35,8 @@ Replace the first row with your own contribution.
 | Mar 5 | [Link](https://github.com/ossd-s25/briz123-weekly/issues/1) | Issue & Solution | Suggested a fix for a classmate's blog |
 | Mar 7 | [Link](https://github.com/fastapi/fastapi/pull/13427) | Discussion | Responded to comment on FastAPI PR |
 | Mar 12 | [Link](https://www.openstreetmap.org/changeset/163550322) | OpenStreetMap | Added information on a new bakery in the East Village |
+
+
+| Date # | Contribution                                  | Type           | Description            |
+| ------ | :--------------------------------------------------- | :------------- | :--------------------- |
+| Apr 7  | [Link](https://github.com/jpjacobpadilla/Google-Colab-Selenium/issues/19) | Issue   | Helped resolve user issue in Google-Colab-Selenium |
